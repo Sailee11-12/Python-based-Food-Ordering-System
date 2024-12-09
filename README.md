@@ -1,0 +1,1 @@
+This is a simple Python program that simulates a restaurant ordering system.It allows users to place an order by selecting items from a predefined menu and calculates the total price based on the items ordered.
